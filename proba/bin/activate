@@ -40,7 +40,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="/Users/MACBOOKRETINA/Documents/probabilidad y estadística/Consumo-de-alcohol.-Probabilidad./proba"
+VIRTUAL_ENV="/Users/MACBOOKRETINA/Documents/probabilidad_estadística/Consumo-de-alcohol.-Probabilidad./proba"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
